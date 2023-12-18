@@ -1,3 +1,7 @@
+![image](https://github.com/Circuit-Digest/servo-tutorial/assets/65025308/d2d5ed80-d4c1-4fc4-b6df-e950d38faa32)
+
+Full tutorial: https://circuitdigest.com/microcontroller-projects/interface-servo-motor-with-arduino
+
 # Servo-Motor-Arduinio-Tutorial-Project
 ![Servo-Motor-Arduino-Interfacing](https://github.com/Circuit-Digest/servo-tutorial/blob/main/images/interface-arduino-with-servo-motor.jpg)
 
@@ -14,7 +18,7 @@ In the world of electronics and robotics, servo motors play a crucial role in co
 
 ## 📺 Watch the Tutorial
 
-[![Watch the Tutorial](https://github.com/Circuit-Digest/servo-tutorial/blob/main/images/gif2.gif)]
+[[[![Watch the Tutorial](https://github.com/Circuit-Digest/servo-tutorial/blob/main/images/gif2.gif)]](https://www.youtube.com/watch?v=QpaCSFnW7aM)](https://www.youtube.com/watch?v=QpaCSFnW7aM)
 
 
 ## 📝 License
